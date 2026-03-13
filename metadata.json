@@ -1,0 +1,7 @@
+{
+  "name": "Eliane Amorim - Estética & Podologia",
+  "description": "Landing page premium para agendamento de serviços de estética e podologia com a expert Eliane Amorim.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
